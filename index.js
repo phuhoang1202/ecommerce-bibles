@@ -1,6 +1,7 @@
 // Introduce
 let currentIndexIntroduce = 0;
 let productsDataIntroduce = [];
+
 // Fetch data from JSON
 fetch("data.json")
   .then((response) => response.json())
@@ -77,11 +78,33 @@ function showRelatedProducts() {
   });
 }
 
+// Function to handle sliding effect
+function slideProduct(direction) {
+  const productElement = document.querySelector(".show-deital-product");
+
+  // Add sliding effect
+  if (direction === "next") {
+    productElement.classList.add("slide-left");
+  } else if (direction === "prev") {
+    productElement.classList.add("slide-right");
+  }
+
+  // After animation ends, show the product and remove the sliding class
+  setTimeout(() => {
+    showProduct(currentIndexIntroduce);
+    if (direction === "next") {
+      productElement.classList.remove("slide-left");
+    } else if (direction === "prev") {
+      productElement.classList.remove("slide-right");
+    }
+  }, 500); // Matches the transition duration in CSS
+}
+
 // Event listeners for next and previous buttons
 document.querySelector(".btn-next").addEventListener("click", () => {
   currentIndexIntroduce =
     (currentIndexIntroduce + 1) % productsDataIntroduce.length;
-  showProduct(currentIndexIntroduce);
+  slideProduct("next"); // Apply sliding effect for "next"
   showRelatedProducts();
 });
 
@@ -89,10 +112,11 @@ document.querySelector(".btn-prev").addEventListener("click", () => {
   currentIndexIntroduce =
     (currentIndexIntroduce - 1 + productsDataIntroduce.length) %
     productsDataIntroduce.length;
-  showProduct(currentIndexIntroduce);
+  slideProduct("prev"); // Apply sliding effect for "prev"
   showRelatedProducts();
 });
 
+// New Product
 let currentIndexNewPrd = 0;
 const itemsPerPageNewPrd = 5;
 let productsDataNewPrd = [];
