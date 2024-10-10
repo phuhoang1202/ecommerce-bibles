@@ -1,0 +1,260 @@
+{
+  "introduce": [
+    {
+      "id": 1,
+      "image": "/assets/images/product/Product1.png",
+      "name": "하느님을 찾는 아이들",
+      "author": ["플란체스코 리에라", "실비아 오리아나 콜롬보"],
+      "discount": "10%",
+      "price": 9000,
+      "currency": "원",
+      "description": [
+        "아이들과 함께 읽으며 재미있게 이야기를 풀어가는 그림동화",
+        " 이 그림동화는 아이들이 원하는 것, 궁금해하는 것을 따라가면 만나게 되는 사랑, 행복, 죽음, 상처, 기도, 경청, 용서에 대한 이야기다. 어린이와 어른이 함께 읽고 이야기를 나누면 하느님 이야기와 우리들의 이야기로 쉽게 이어질 수 있도록 이끌어 준다. 예를 들면 아이가 금붕어를 갖고 싶다고 말할 때, 할머니가 금붕어를 원하느냐고 되물으면서 ‘갖고 싶은 것’과 ‘원하는 것’의 차이와 사랑이 무엇인지 스스로 배우도록 이끈다. 그리고 아이들이 자주 쓰는 ‘행복하다’는 말에도 여러 결의 의미가 있다는 것을 스스로 깨닫는 과정을 담고 있다."
+      ]
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/product/Product2.png",
+      "name": "우리 아이도 신앙을 가지면 좋겠다",
+      "author": ["플란체스코 리에라", "실비아 오리아나 콜롬보"],
+      "discount": "10%",
+      "price": 9000,
+      "currency": "원",
+      "description": [
+        "아이들과 함께 읽으며 재미있게 이야기를 풀어가는 그림동화",
+        " 이 그림동화는 아이들이 원하는 것, 궁금해하는 것을 따라가면 만나게 되는 사랑, 행복, 죽음, 상처, 기도, 경청, 용서에 대한 이야기다. 어린이와 어른이 함께 읽고 이야기를 나누면 하느님 이야기와 우리들의 이야기로 쉽게 이어질 수 있도록 이끌어 준다. 예를 들면 아이가 금붕어를 갖고 싶다고 말할 때, 할머니가 금붕어를 원하느냐고 되물으면서 ‘갖고 싶은 것’과 ‘원하는 것’의 차이와 사랑이 무엇인지 스스로 배우도록 이끈다. 그리고 아이들이 자주 쓰는 ‘행복하다’는 말에도 여러 결의 의미가 있다는 것을 스스로 깨닫는 과정을 담고 있다."
+      ]
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/product/Product3.png",
+      "name": "사는 맛 사는 멋",
+      "author": ["플란체스코 리에라", "실비아 오리아나 콜롬보"],
+      "discount": "10%",
+      "price": 9000,
+      "currency": "원",
+      "description": [
+        "아이들과 함께 읽으며 재미있게 이야기를 풀어가는 그림동화",
+        " 이 그림동화는 아이들이 원하는 것, 궁금해하는 것을 따라가면 만나게 되는 사랑, 행복, 죽음, 상처, 기도, 경청, 용서에 대한 이야기다. 어린이와 어른이 함께 읽고 이야기를 나누면 하느님 이야기와 우리들의 이야기로 쉽게 이어질 수 있도록 이끌어 준다. 예를 들면 아이가 금붕어를 갖고 싶다고 말할 때, 할머니가 금붕어를 원하느냐고 되물으면서 ‘갖고 싶은 것’과 ‘원하는 것’의 차이와 사랑이 무엇인지 스스로 배우도록 이끈다. 그리고 아이들이 자주 쓰는 ‘행복하다’는 말에도 여러 결의 의미가 있다는 것을 스스로 깨닫는 과정을 담고 있다."
+      ]
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/product/Product4.png",
+      "name": "하루 10분 주님과 단둘이",
+      "author": ["플란체스코 리에라", "실비아 오리아나 콜롬보"],
+      "discount": "10%",
+      "price": 9000,
+      "currency": "원",
+      "description": [
+        "아이들과 함께 읽으며 재미있게 이야기를 풀어가는 그림동화",
+        " 이 그림동화는 아이들이 원하는 것, 궁금해하는 것을 따라가면 만나게 되는 사랑, 행복, 죽음, 상처, 기도, 경청, 용서에 대한 이야기다. 어린이와 어른이 함께 읽고 이야기를 나누면 하느님 이야기와 우리들의 이야기로 쉽게 이어질 수 있도록 이끌어 준다. 예를 들면 아이가 금붕어를 갖고 싶다고 말할 때, 할머니가 금붕어를 원하느냐고 되물으면서 ‘갖고 싶은 것’과 ‘원하는 것’의 차이와 사랑이 무엇인지 스스로 배우도록 이끈다. 그리고 아이들이 자주 쓰는 ‘행복하다’는 말에도 여러 결의 의미가 있다는 것을 스스로 깨닫는 과정을 담고 있다."
+      ]
+    }
+  ],
+  "newProducts": [
+    {
+      "id": 1,
+      "image": "/assets/images/product/Product5.png",
+      "name": "영원한 도움의 성모 매일기도",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/product/Product6.png",
+      "name": "가리산의 눈먼 벌치기",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/product/Product7.png",
+      "name": "냉당 중입니다.",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/product/Product8.png",
+      "name": "삶이 고통으로 휘청거릴 때",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/product/Product9.png",
+      "name": "가장 멋진 삶",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/product/Product10.png",
+      "name": "새로운 꿈의 길",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/product/Product11.png",
+      "name": "행복한 사람들",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/product/Product12.png",
+      "name": "신앙의 길",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/product/Product13.png",
+      "name": "기쁨의 노래",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/product/Product14.png",
+      "name": "믿음의 여정",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "currency": "원"
+    }
+  ],
+  "bestProducts": [
+    {
+      "id": 1,
+      "image": "/assets/images/product/Product10.png",
+      "name": "수험생을 위한 묵주의 9일기도",
+      "author": "지은이",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best1.svg",
+      "numberBest": 1
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/product/Product11.png",
+      "name": "우리 아이도 신앙을 가지면 좋겠다.",
+      "author": "조재연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 2
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/product/Product12.png",
+      "name": "사는 맛 사는 멋",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 3
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/product/Product13.png",
+      "name": "하루 10분 주님과 단둘이",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 4
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/product/Product14.png",
+      "name": "교회상식 속풀이",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 5
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/product/Product15.png",
+      "name": "영원한 도움의 성모 매일 기도",
+      "author": "구속주회",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 6
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/product/Product11.png",
+      "name": "우리 아이도 신앙을 가지면 좋겠다.",
+      "author": "조재연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 2
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/product/Product12.png",
+      "name": "사는 맛 사는 멋",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 3
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/product/Product13.png",
+      "name": "하루 10분 주님과 단둘이",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 4
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/product/Product14.png",
+      "name": "교회상식 속풀이",
+      "author": "황창연 신부",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 5
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/product/Product15.png",
+      "name": "영원한 도움의 성모 매일 기도",
+      "author": "구속주회",
+      "discount": "10%",
+      "price": 12600,
+      "ratingImage": "/assets/images/icon/best/Best2.svg",
+      "numberBest": 6
+    }
+  ]
+}
